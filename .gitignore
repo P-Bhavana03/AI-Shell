@@ -1,3 +1,4 @@
 .env
 venv
 .venv
+ai_shell_history.db
